@@ -1,4 +1,3 @@
-Copy and paste this into your README.md or submit as a separate section:
 AI Tool(s) Used: ChatGPT
 
 Purpose of AI Use (check all that apply): / brainstorming  ✔ layout/UI ideas ✔ debugging  ✔ code generation  □ refactoring  □ styling suggestions  □ other: ____________
